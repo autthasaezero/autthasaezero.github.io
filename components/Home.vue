@@ -314,6 +314,11 @@ export default {
         year: new Date().getFullYear()
       };
     },
+    head() {
+      return {
+        title: 'CV | Autthapol Yingjaikla',
+      }
+    },
     methods: {
       goto(refName) {
         var element = this.$refs[refName];
