@@ -45,6 +45,7 @@
         <a
           class="nav-link"
           href="javascript:void(0)"
+          @click="goto('skill')"
         >
           <p>Skill</p>
         </a>
@@ -192,6 +193,37 @@
               </div>
               </div>
             </li>
+          </ul>
+          </h5>
+          <h2 class="section-title" ref="skill">Skill and Experienced</h2>
+          <h5 class="description" style="max-width:500px">
+          <h3 class="text-left font-weight-bold">Skill</h3>
+	        <ul class="text-left">
+            <li>OOP Programing</li>
+            <li>PHP (CodeIgniter, Laravel) MVC, HMVC</li>
+            <li>Python (Django, FastAPI)</li>
+            <li>Node js express</li>
+            <li>Android Java, Flutter</li>
+            <li>Mobile cross platform (Ionic)</li>
+            <li>Angular, Vue js, Nuxt js, React</li>
+            <li>Mysql, MariaDB, PostgreSQL, SQL Server, Oracle,  MongoDB, Firebase, Redis</li>
+            <li>Payment Gateway </li>
+            <li>Javascript, Jquery, HTML, Bootstrap</li>
+            <li>Source Control Git, SVN </li>
+            <li>Web Service  REST Oauth2, JWT</li>
+            <li>Chat, Web socket, Notification</li>
+            <li>Video steamming</li>
+          </ul>
+          <h3 class="text-left font-weight-bold mt-2">Experienced</h3>
+          <ul class="text-left">
+            <li>Developed android application and microcontroller avr, arduino.</li>
+            <li>Developed  elearning, booking reservation, flight, car rental, tourist attraction ticket, and tour package and  marketplace real estate  web application.</li>
+            <li>Payment Gateway  Paypal, Omise, Paysbuy, Kasikorn, Virtual Credit Card</li>
+            <li>Database,ORM, View, Flexview, Stored Procedure, Full-text Search, Data Analysis – Olap</li>
+            <li>Web performance tuning</li>
+            <li>IoT Wash shop, Vending machine, Top up machine</li>
+            <li>Cryptocurrency bases on ethereum</li>
+            <li>MLM  platform</li>
           </ul>
           </h5>
           <div class="row">
