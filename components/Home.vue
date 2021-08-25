@@ -214,6 +214,7 @@
                       <img src="img/portfolio/angularjs.png" alt="" class="d-inline ml-3" />
                       <img src="img/portfolio/arduino.png" alt="" class="d-inline ml-3" />
                       <img src="img/portfolio/codeigniter.png" alt="" style="height:96px !important" class="d-inline ml-3" />
+                      <img src="img/portfolio/laravel.png" alt="" class="d-inline ml-3" />
                       <img src="img/portfolio/django.png" alt="" class="d-inline ml-3" />
                       <img src="img/portfolio/docker.png" alt="" class="d-inline ml-3" />
                       <img src="img/portfolio/fastapi.png" alt="" style="height:96px !important" class="d-inline ml-3" />
